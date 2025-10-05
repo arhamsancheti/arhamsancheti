@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arham Sancheti</h1>
 <h3 align="center">"Turning caffeine into code, chaos into features, and bugs into adventures." ☕💻🐛</h3>
-<img align="right" alt="Coding" width="4000" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="4000" src="https://s2.dmcdn.net/v/UHA-f1enVzLM_Qgm2/x1080">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhamsancheti" alt="arhamsancheti" /></a> </p>
