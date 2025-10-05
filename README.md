@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arham Sancheti</h1>
+<h1 align="center">Yo👋, I'm Arham Sancheti</h1>
 <h3 align="center">"Turning caffeine into code, chaos into features, and bugs into adventures." ☕💻🐛</h3>
 <img align="right" alt="Coding" width="4000" src="https://i.pinimg.com/originals/c0/01/1b/c0011b22ef40718152484c7e11fd4b6d.gif">
 
